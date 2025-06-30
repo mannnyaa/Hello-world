@@ -9,5 +9,10 @@
     "splashBackgroundColor": "#ffffff",
     "subtitle": "hello-world",
     "description": "hello-world"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4NzYyMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQ3MjBmMjk2NjE1MWIxMUU2QmYxNjFENDlFYjMxNzE1MjI2NjUwRjgifQ",
+    "payload": "eyJkb21haW4iOiJoZWxsby13b3JsZC1oaGoyLnZlcmNlbC5hcHAifQ",
+    "signature": "MHg5MzdhOGJhODA5MTA1MzBhZGM3OTQ5NzU2ODU1NWI2NmUxOTIzYmZiYzNjZDBiZDU1ZDNkYWI0OGMwNjZkMmZhMzAzYWRiNDRiNDFkMjAwYTI0ZjFlODEzNzIyMmMyNTk5MmZmZjljYWRlZmY2NmNiOWNkYzhjMTU4ZmNiYjI0YjFi"
   }
 }
