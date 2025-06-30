@@ -1,13 +1,13 @@
 {
   "frame": {
-    "name": "h",
+    "name": "hello-world",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
-    "splashBackgroundColor": "#ffffff"
+    "iconUrl": "https://hello-world-hhj2.vercel.app/logo.png",
+    "homeUrl": "https://hello-world-hhj2.vercel.app/logo.png",
+    "primaryCategory": "developer-tools",
+    "splashImageUrl": "https://hello-world-hhj2.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "hello-world",
+    "description": "hello-world"
   }
 }
